@@ -9,4 +9,14 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+
+
+    <platform name="android">
+      <icon src="Graphics/iTunesArtwork@2x.png" density="hdpi" />
+      <splash src="Graphics/launch-image-portrait-iPhone-5" density="port-mdpi"/>
+      <splash src="Graphics/launch-image-portrait-iPhone-5" density="port-hdpi"/>
+      <splash src="Graphics/launch-image-portrait-iPhone-5" density="port-ldpi"/>
+      <splash src="Graphics/launch-image-portrait-iPhone-5" density="port-xhdpi"/>
+    </platform>
+
 </widget>
