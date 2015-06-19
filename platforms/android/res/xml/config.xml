@@ -9,10 +9,8 @@
         <param name="onload" value="true" />
     </feature>
     <icon density="hdpi" src="Graphics/iTunesArtwork@2x.png" />
-    <splash density="port-mdpi" src="Graphics/launch-image-portrait-iPhone-5" />
-    <splash density="port-hdpi" src="Graphics/launch-image-portrait-iPhone-5" />
-    <splash density="port-ldpi" src="Graphics/launch-image-portrait-iPhone-5" />
-    <splash density="port-xhdpi" src="Graphics/launch-image-portrait-iPhone-5" />
+    <preference name="SplashScreen" value="splash" />
+    <preference name="SplashScreenDelay" value="5000" />
     <name>Water Tracker</name>
     <description>
         Watershed Soil Moisture Tracker
